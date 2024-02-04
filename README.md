@@ -2,7 +2,7 @@
 
 #**Importing the required libraries** like 
 
-  Numpy, Pandas, Seaborn, Matplotlib, Decision Tree, Random forest, Logistic regression, Support Vector Machines.
+  Numpy as np, Pandas as pd, Seaborn as sns, Matplotlib as plt, Decision Tree, Random forest, Logistic regression, Support Vector Machines.
 
 #**About the dataset**
 
