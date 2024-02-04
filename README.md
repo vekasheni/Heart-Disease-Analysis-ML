@@ -70,19 +70,29 @@ value 3: downloping
 ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/4546b627-dfae-4c7f-9e7f-a6030eb58205)
 
 2.Correlation Matrix- Heatmap
+![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/88acbd31-b4bd-433d-80e9-4811f725cf1c)
+
 
 #**Logistic Regression Classifier**
 
   **Accuracy** of the Logistic Regression classifier is about **88%**
+  ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/f03c54ec-5f96-4972-8411-420291c83f78)
+
 
 #**Decision Tree Classifier**
 
    **Accuracy** of the Decision Tree classifier is about **97%.**
+   ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/e8dd365c-af43-4993-9522-80807f7d6bd7)
+
 
  #**Random forest classifier**
 
    **Accuracy** of the Random Forest classifier is about **86%.**
+   ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/ad64b241-9c5c-4d32-a064-1f67eadee2f4)
+
 
  #**Support Vector Machines**
 
    **Accuracy** of the Support Vector Machines is about **87%.**
+   ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/b9065568-1087-457c-b945-ee5856bda676)
+
