@@ -67,6 +67,7 @@ value 3: downloping
 #**Data Visualization**
 
 1.Countplot for persons having disease and not having disease
+![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/4546b627-dfae-4c7f-9e7f-a6030eb58205)
 
 2.Correlation Matrix- Heatmap
 
