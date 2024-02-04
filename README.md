@@ -67,32 +67,48 @@ value 3: downloping
 #**Data Visualization**
 
 1.Countplot for persons having disease and not having disease
+
 ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/4546b627-dfae-4c7f-9e7f-a6030eb58205)
 
-2.Correlation Matrix- Heatmap
+2.**Correlation Matrix- Heatmap**
+
+  A correlation matrix is a statistical technique used to evaluate the relationship between two variables in a data set. The matrix is a table in which every cell contains a correlation coefficient, where 1 is considered a strong relationship between variables, 0 a neutral relationship and -1 a not strong relationship.
+  
 ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/88acbd31-b4bd-433d-80e9-4811f725cf1c)
 
 
 #**Logistic Regression Classifier**
 
+  Logistic Regression is a classification algorithm, used to classify elements of a set into two groups (binary classification) by calculating the probability of each element of the set Logistic Regression is the appropriate regression analysis to conduct when the dependent variable has a binary solution, we predict the values of categorical variables.
+
   **Accuracy** of the Logistic Regression classifier is about **88%**
+  
   ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/f03c54ec-5f96-4972-8411-420291c83f78)
 
 
 #**Decision Tree Classifier**
 
    **Accuracy** of the Decision Tree classifier is about **97%.**
+
+     Logistic Regression is a classification algorithm, used to classify elements of a set into two groups (binary classification) by calculating the probability of each element of the set Logistic Regression is the appropriate regression analysis to conduct when the dependent variable has a binary solution, we predict the values of categorical variables.
+   
    ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/e8dd365c-af43-4993-9522-80807f7d6bd7)
 
 
  #**Random forest classifier**
 
+   Random Forest is a robust machine learning algorithm that can be used for a variety of tasks including regression and classification. It is an ensemble method, meaning that a random forest model is made up of a large number of small decision trees, called estimators, which each produce their own predictions. The random forest model combines the predictions of the estimators to produce a more accurate prediction.
+
    **Accuracy** of the Random Forest classifier is about **86%.**
+   
    ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/ad64b241-9c5c-4d32-a064-1f67eadee2f4)
 
 
  #**Support Vector Machines**
 
+   It is a supervised machine learning problem where we try to find a hyperplane that best separates the two classes. Note: Don’t get confused between SVM and logistic regression. Both the algorithms try to find the best hyperplane, but the main difference is logistic regression is a probabilistic approach whereas support vector machine is based on statistical approaches.
+
    **Accuracy** of the Support Vector Machines is about **87%.**
+   
    ![image](https://github.com/vekasheni/Heart-Disease-Analysis/assets/146317452/b9065568-1087-457c-b945-ee5856bda676)
 
